@@ -9,6 +9,8 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 |
 [LinkedIn](https://linkedin.com/in/BrianHHough)
 
+![Build Status](https://github.com/BrianHHough/Python-Advent-Calendar-2020-Data-Science-Edition/workflows/Build%20Status/badge.svg)
+
 ## Progress
 | DAY | TITLE | LINK |
 |:---|:---:|:---:|
