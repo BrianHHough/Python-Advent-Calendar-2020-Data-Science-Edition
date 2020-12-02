@@ -1,4 +1,4 @@
-# DAY 1
+# Day 1
 
 ## Prompt
 Let's start with a warm-up task! If you are not familiar with NumPy yet, go to the resources section and check them out.
