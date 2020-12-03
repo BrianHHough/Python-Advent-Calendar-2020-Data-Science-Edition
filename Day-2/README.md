@@ -30,5 +30,5 @@ Missing data is an everyday problem that data scientists need to deal with. Writ
 * You need to create a temp array that stores the boolean values and then you can refer to it and update the true values with -1 in the original array.
 * To solve this, we define a variable `i` and iterate over the array using the index and check if that value is not a number (i.e. `np.isnan(array[i])`).
 * If yes, then we set that value to -1 with `array[i] = -1`
-* Then we return the array we want
+* Then we return the array we want (array starts at 0 to length-1)
 

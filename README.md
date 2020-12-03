@@ -15,6 +15,4 @@ Python Solutions By: `@BrianHHough` 👨‍💻 [Website](https://BrianHHough.co
 | DAY | TITLE | LINK |
 |:---|:---:|:---:|
 | 1 | Return a NumPy array with integers between both inputs | [✅](https://github.com/BrianHHough/Python-Advent-Calendar-2020-Data-Science-Edition/tree/main/Day-1) |
-
-
-
+| 2 | Take a NumPy array and return it after replacing NaN's with -1  | [✅](https://github.com/BrianHHough/Python-Advent-Calendar-2020-Data-Science-Edition/tree/main/Day-2) |
